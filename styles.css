@@ -1,0 +1,155 @@
+body {
+  font-family: "Montserrat";
+}
+#title {
+  background-image: url(2.jpeg);
+  background-size: cover;
+    color:#fff;
+}
+
+.container-fluid {
+  padding:3% 10% 7%;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 5.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+ p {
+  color: grey ;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.1rem;
+  font-weight:bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light";
+  font-size: 1.2rem ;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-details {
+  color: gold;
+  line-height: 1.5;
+}
+
+
+/* Vision */
+
+.product-symbol {
+  margin: 4% 3% 0;
+}
+
+#Vision {
+  background-color: #dcdcdc;
+  color: Black;
+  padding:3% 15% 7%;
+}
+
+.vision-photo {
+  border-color: darkslateblue;
+  border-width: medium;
+    border-style: solid;
+  float: left;
+   width: 370px;
+  height: 430px;
+  margin-top: 40%;
+  margin-right: 40%;
+  padding-bottom: 2%;
+}
+
+.heading {
+  text-shadow: 3px 4px 1px lightslategrey;
+}
+
+.para {
+  color: black;
+}
+
+
+/* our Collection */
+
+.OurCollections{
+  color: black;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 2%;
+}
+
+.div-1 {
+  float: left;
+  margin-right: 9%;
+}
+
+.div-2 {
+  padding-top: 7%;
+}
+
+.div-3 {
+  clear: left;
+  float: left;
+  width: 630px;
+   margin-right: 5.7%;
+   padding-top: 7%;
+  text-align: right;
+}
+
+.new-comers {
+  color: grey;
+}
+
+
+
+/* Our Team Section */
+
+#ourteam {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2% ;
+}
+
+.team1 {
+  width: 245px;
+}
+
+.social-icon {
+  margin:20px 10px;
+}
